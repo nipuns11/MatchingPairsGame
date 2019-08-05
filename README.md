@@ -1,2 +1,2 @@
 # MatchingPairsGame
-Matching pairs game in c
+Matching pairs game in c#
